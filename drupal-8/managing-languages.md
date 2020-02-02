@@ -1,4 +1,4 @@
-# Some useful Drupal 8 language snippets.
+# Some useful Drupal 8 language snippets
 
 ```php
 // Define variables for the language direction.
