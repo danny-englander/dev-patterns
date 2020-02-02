@@ -9,7 +9,7 @@ if ($lang->getDirection() === "ltr") {
 else {
   $variables['lang_direction'] = 'rtl';
 }
+
 ```
 
 Define variables for the language direction.
-
