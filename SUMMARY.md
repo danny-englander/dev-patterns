@@ -12,3 +12,4 @@
 ## Drupal 7
 
 - [Create View modes programtically](drupal-7/create-view-modes-programtically.md)
+- [Node form alter](drupal-7/node-form-alter.md)
