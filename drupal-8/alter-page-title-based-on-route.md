@@ -4,7 +4,7 @@
 /**
  * Implements hook_preprocess_HOOK() for the page title template.
  */
-function MYTHEME_preprocess_page_title(&$vars) {
+function dev_patterns_preprocess_page_title(&$vars) {
   // Define the route.
   $route = \Drupal::routeMatch()->getRouteName();
     // Set the page title for user register.

@@ -1,3 +1,0 @@
-# Test Code Snippet
-
-hello
