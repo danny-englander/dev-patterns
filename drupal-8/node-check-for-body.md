@@ -1,4 +1,4 @@
-# Check if node has body
+# Check if node has body and add a class
 
 ## Preprocess page
 
@@ -11,3 +11,4 @@
     }
   }
 ```
+

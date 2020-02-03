@@ -1,4 +1,3 @@
-
 # Create View modes programtically
 
 ```php
@@ -24,11 +23,11 @@ function dev_patterns_entity_info_alter(&$entity_info) {
     ],
   ];
 }
-  ```
+```
 
-  ## Other view modes:
+## Other view modes:
 
-  ```php
+```php
   // Field Collection display modes.
   $entity_info['field_collection_item']['view modes'] += []
 
@@ -43,5 +42,5 @@ function dev_patterns_entity_info_alter(&$entity_info) {
 
   // Paragraphs Item view modes.
   $entity_info['paragraphs_item']['view modes'] += []
+```
 
-  ```
