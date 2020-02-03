@@ -10,8 +10,8 @@
 
 ## Drupal 7
 
-* [D8: Nodes](drupal-7/d8-nodes/README.md)
-  * [Node form alter](drupal-7/d8-nodes/node-form-alter.md)
-  * [Element Children](drupal-7/d8-nodes/element-children.md)
+* [D8: Nodes](drupal-7/d8-nodes.md)
 * [Create View modes programtically](drupal-7/create-view-modes-programtically.md)
+* [Node form alter](drupal-7/node-form-alter.md)
+* [Element Children](drupal-7/element-children.md)
 
