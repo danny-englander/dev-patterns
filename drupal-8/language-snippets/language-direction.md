@@ -1,4 +1,4 @@
-# Some useful Drupal 8 language snippets
+# Get the language direction \(PHP\)
 
 ```php
 // Define variables for the language direction.
