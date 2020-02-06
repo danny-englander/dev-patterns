@@ -1,2 +1,2 @@
-# Language snippets
+# Language
 
