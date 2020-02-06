@@ -5,12 +5,18 @@
 ## Drupal 8
 
 * [Form Alter](drupal-8/form-alter/README.md)
+  * [data-twig-suggestion preprocess](drupal-8/form-alter/data-twig-suggestion-preprocess.md)
   * [Address field \#after\_build](drupal-8/form-alter/address-field-after_build.md)
 * [Language snippets](drupal-8/language-snippets/README.md)
   * [Get the language direction \(PHP\)](drupal-8/language-snippets/language-direction.md)
-* [Alter page title based on route](drupal-8/alter-page-title-based-on-route.md)
-* [Check if node has body and add a class](drupal-8/node-check-for-body.md)
-* [D8: Nodes](drupal-8/d8-nodes.md)
+* [Routes](drupal-8/routes/README.md)
+  * [Alter page title based on route](drupal-8/routes/alter-page-title-based-on-route.md)
+* [Preprocess Page](drupal-8/preprocess-page/README.md)
+  * [Check if a node has body content and create a variable](drupal-8/preprocess-page/node-check-for-body.md)
+* [Preprocess HTML](drupal-8/preprocess-html/README.md)
+  * [Add a body class based on route](drupal-8/preprocess-html/add-a-body-class-based-on-route.md)
+* [General Theming](drupal-8/general-theming/README.md)
+  * [Field theme hook suggestion based on the entity string](drupal-8/general-theming/field-theme-hook-suggestion-based-on-the-entity-string.md)
 
 ## Drupal 7
 
