@@ -4,7 +4,7 @@ You can query the node object in a preprocess page function and then set a Twig 
 
 ```php
 /**
- * Implements hook_preprocess_html().
+ * Implements hook_preprocess_page().
  */
 function dev_patterns_preprocess_page(array &$vars) {
   $node = \Drupal::routeMatch()->getParameter('node');
