@@ -20,7 +20,11 @@
   * [Preprocess Paragraph](drupal-8/general-theming/preprocess-paragraph.md)
   * [Paragraph theme hook for a specific field value](drupal-8/general-theming/paragraph-theme-hook-for-a-specific-field-value.md)
   * [Field theme hook suggestion based on the entity string](drupal-8/general-theming/field-theme-hook-suggestion-based-on-the-entity-string.md)
-* [Twig](drupal-8/untitled.md)
+* [Twig](drupal-8/untitled/README.md)
+  * [Twig include file](drupal-8/untitled/twig-include-file.md)
+  * [Twig loops](drupal-8/untitled/twig-loops.md)
+  * [Query block ids for use with twig tweak](drupal-8/untitled/query-block-ids-for-use-with-twig-tweak.md)
+  * [Loop index](drupal-8/untitled/loop-index.md)
 * [Page alter](drupal-8/page-alter-1/README.md)
   * [Page title theme hook](drupal-8/page-alter-1/page-title-theme-hook.md)
   * [Page content type theme hook](drupal-8/page-alter-1/page-alter.md)
@@ -31,11 +35,12 @@
 * [Fields](drupal-8/fields/README.md)
   * [Replace field name](drupal-8/fields/replace-field-name.md)
   * [Count number in a multi-value field array](drupal-8/fields/count-number-in-a-multi-value-field-array.md)
+* [Terminal](drupal-8/terminal/README.md)
+  * [Check for available updates in terminal](drupal-8/terminal/check-for-available-updates-in-terminal.md)
 
 ## Drupal 7
 
 * [Create View modes programtically](drupal-7/create-view-modes-programtically.md)
 * [Node form alter](drupal-7/node-form-alter.md)
 * [Element Children](drupal-7/element-children.md)
-* [Twig include file](twig-include-file.md)
 
